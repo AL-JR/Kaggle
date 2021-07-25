@@ -1,2 +1,2 @@
-# TitanicML
-Titanic Challenge on Kaggle
+# Kaggle Challenges
+Challenges from Kaggle
